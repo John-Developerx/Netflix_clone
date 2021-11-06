@@ -1,0 +1,124 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   font-family: Helvetica, sans-serif;
+   opacity: 0.9;
+   background: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url(net.jpg); 
+}
+
+#imgn{
+   height: 6vh;
+   margin-right: auto;
+}
+
+.container{
+   min-height: 100vh;
+   width: 100%;
+}
+
+.naveg{
+   width: 100%;
+   display:flex;
+   justify-content: flex-end;
+   align-items: center;
+   padding: 0.5rem 0.5rem;
+}
+
+#ling{
+   height: 2rem;
+   width: 6rem;
+   background-color: #000000A8;
+   color: white;
+   margin-right: 15px;
+}
+button{
+   cursor: pointer;
+}
+
+#boton{
+   height: 2rem;
+   width: 5rem;
+   border-style: none;
+   background: #E11111;
+   border-radius: 5px;
+   color: white;
+   font-size: 16px;
+}
+
+.card{
+   min-width: 500px;
+   min-height: 470px;
+   display: flex;
+   flex-direction: column;
+   color: white;
+   justify-content: center;
+   align-items: center
+   
+   
+}
+
+.card_title{
+   font-size: 50px;
+   font-weight: bolder;
+   text-align: center;
+}
+
+.card_sub{
+   font-weight: 400;
+   margin-left: 30px;
+}
+
+.form_box{
+   padding: 16px 0;
+   display: flex;
+   flex-direction: column;
+   height: 120px;
+}
+
+.form_convid{
+   font-weight: 400;
+   margin-left: 30px;
+}
+
+.form-cont{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#emai{
+   font-size: 16px;
+   width: 240px;
+   padding: 10px 10px;
+   margin-left: 30px;
+}
+
+#boton_form{
+   font-size: 1.5rem;
+   padding: 1rem;
+   background: #E11111;
+   color: white;
+   border: none;
+   border-radius: 5px;
+}
+
+.creator{
+   margin-top: 130px;
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   font-weight: bold;
+}
+
+.direitos{
+   margin-top: auto;
+   font-size:  17px;
+   text-align: center;
+}
+
