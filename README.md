@@ -5,7 +5,7 @@
 <h2> Português </h2>
 <p> Projeto feito com o celular </p>
 
-# Project. 
+# Project 
 <p> https://john-developerx.github.io/Netflix_clone/ </p>
 <h2> Technologies used </h2>
 <p> HTML5 | CSS3. </p>
